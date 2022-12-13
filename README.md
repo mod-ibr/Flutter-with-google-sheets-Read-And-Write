@@ -1,16 +1,10 @@
-# flutter_with_google_sheet
+# Flutter with google sheet, Reading And Write data using google apps script
 
-A new Flutter project.
+![Educational Online Center](https://user-images.githubusercontent.com/81623956/207450581-b0c1d5a6-df8a-4d40-b873-afca03b44daa.gif)
 
-## Getting Started
+### The google apps script Code is provided in the project file as 'Online Educational Center.gs'
+#### copy and best that code to your google apps script 
 
-This project is a starting point for a Flutter application.
+### google sheets link : https://docs.google.com/spreadsheets/d/17H08WQISmGqsmy6hPYPmFBGN8CF1GsBM5m9wtXAy4JM/edit#gid=0
+#### You can create your google sheet and update Your ID in The provided script
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
